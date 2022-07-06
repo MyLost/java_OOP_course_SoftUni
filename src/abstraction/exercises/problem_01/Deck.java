@@ -1,4 +1,4 @@
-package encapsulation.problem_01;
+package abstraction.exercises.problem_01;
 
 public enum Deck {
     CLUBS(0),

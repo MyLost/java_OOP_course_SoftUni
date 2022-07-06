@@ -1,4 +1,4 @@
-package encapsulation.problem_01;
+package abstraction.exercises.problem_01;
 
 import java.util.Scanner;
 
