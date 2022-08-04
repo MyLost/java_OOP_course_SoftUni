@@ -1,4 +1,4 @@
-package animal_farm;
+package encapsulation.exercises.animal_farm;
 
 public class Chicken {
     private String name;
